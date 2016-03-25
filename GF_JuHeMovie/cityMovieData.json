@@ -1,0 +1,1109 @@
+{
+  "result" : {
+    "data" : [
+      {
+        "link" : "http:\/\/theater.mtime.com\/China_Shandong_Province_Weifang\/movie\/#hot",
+        "name" : "正在上映",
+        "data" : [
+          {
+            "tvTitle" : "荒野猎人",
+            "gradeNum" : "\/10.0(时光网)",
+            "iconlinkUrl" : "http:\/\/movie.mtime.com\/156682\/",
+            "director" : {
+              "showname" : "导演",
+              "data" : {
+                "1" : {
+                  "link" : "http:\/\/people.mtime.com\/1248624\/",
+                  "name" : "亚利桑德罗·冈萨雷斯·伊纳里图"
+                },
+                "m_1" : {
+                  "link" : "http:\/\/m.mtime.cn\/#!\/person\/1248624\/"
+                }
+              }
+            },
+            "star" : {
+              "data" : {
+                "m_3" : {
+                  "link" : "http:\/\/m.mtime.cn\/#!\/person\/1266469\/"
+                },
+                "3" : {
+                  "link" : "http:\/\/people.mtime.com\/1266469\/",
+                  "name" : "威尔·保尔特"
+                },
+                "4" : {
+                  "link" : "http:\/\/people.mtime.com\/1372905\/",
+                  "name" : "多姆纳尔·格里森"
+                },
+                "m_2" : {
+                  "link" : "http:\/\/m.mtime.cn\/#!\/person\/917362\/"
+                },
+                "1" : {
+                  "link" : "http:\/\/people.mtime.com\/924319\/",
+                  "name" : "莱昂纳多·迪卡普里奥"
+                },
+                "m_1" : {
+                  "link" : "http:\/\/m.mtime.cn\/#!\/person\/924319\/"
+                },
+                "m_4" : {
+                  "link" : "http:\/\/m.mtime.cn\/#!\/person\/1372905\/"
+                },
+                "2" : {
+                  "link" : "http:\/\/people.mtime.com\/917362\/",
+                  "name" : "汤姆·哈迪"
+                }
+              },
+              "showname" : "主演"
+            },
+            "playDate" : {
+              "data2" : "2016-3-18",
+              "showname" : "上映日期",
+              "data" : "2016年3月18日"
+            },
+            "type" : {
+              "showname" : "类型",
+              "data" : {
+                "3" : {
+                  "link" : "http:\/\/movie.mtime.com\/movie\/search\/section\/?type=Thriller",
+                  "name" : "惊悚"
+                },
+                "1" : {
+                  "link" : "http:\/\/movie.mtime.com\/movie\/search\/section\/?type=Adventure",
+                  "name" : "冒险"
+                },
+                "4" : {
+                  "link" : "http:\/\/movie.mtime.com\/movie\/search\/section\/?type=Western",
+                  "name" : "西部"
+                },
+                "2" : {
+                  "link" : "http:\/\/movie.mtime.com\/movie\/search\/section\/?type=Drama",
+                  "name" : "剧情"
+                }
+              }
+            },
+            "iconaddress" : "http:\/\/p0.qhimg.com\/t0114d026fa0940d880.jpg",
+            "m_iconlinkUrl" : "http:\/\/m.mtime.cn\/#!\/movie\/156682\/",
+            "story" : {
+              "showname" : "剧情",
+              "data" : {
+                "storyMoreLink" : "http:\/\/movie.mtime.com\/156682\/plots.html",
+                "storyBrief" : "《荒野猎人》根据迈克尔·彭克的长篇小说改编，原著讲述了一名皮草猎人在森林中被熊所伤，他乘.."
+              }
+            },
+            "grade" : "8.1",
+            "subHead" : "今日14家影院上映",
+            "more" : {
+              "data" : [
+                {
+                  "name" : "选座购票",
+                  "link" : "http:\/\/theater.mtime.com\/China_Shandong_Province_Weifang\/movie\/156682\/"
+                },
+                {
+                  "name" : "剧照\/海报",
+                  "link" : "http:\/\/movie.mtime.com\/156682\/posters_and_images\/"
+                },
+                {
+                  "link" : "http:\/\/m.mtime.cn\/#!\/movie\/156682\/posters_and_images\/"
+                },
+                {
+                  "link" : "http:\/\/m.mtime.cn\/#!\/movie\/156682\/comment\/"
+                },
+                {
+                  "link" : "http:\/\/m.mtime.cn\/#!\/theater\/839\/movie\/156682\/"
+                },
+                {
+                  "name" : "热门影评",
+                  "link" : "http:\/\/movie.mtime.com\/156682\/comment.html"
+                }
+              ],
+              "showname" : "更多"
+            }
+          },
+          {
+            "tvTitle" : "疯狂动物城",
+            "gradeNum" : "\/10.0(时光网)",
+            "iconlinkUrl" : "http:\/\/movie.mtime.com\/205222\/",
+            "director" : {
+              "showname" : "导演",
+              "data" : {
+                "1" : {
+                  "link" : "http:\/\/people.mtime.com\/1543670\/",
+                  "name" : "拜恩·霍华德"
+                },
+                "2" : {
+                  "link" : "http:\/\/people.mtime.com\/2079599\/",
+                  "name" : "杰拉德·布什"
+                },
+                "m_1" : {
+                  "link" : "http:\/\/m.mtime.cn\/#!\/person\/1543670\/"
+                }
+              }
+            },
+            "star" : {
+              "data" : {
+                "m_3" : {
+                  "link" : "http:\/\/m.mtime.cn\/#!\/person\/920328\/"
+                },
+                "3" : {
+                  "link" : "http:\/\/people.mtime.com\/920328\/",
+                  "name" : "J·K·西蒙斯"
+                },
+                "4" : {
+                  "link" : "http:\/\/people.mtime.com\/1703866\/",
+                  "name" : "珍妮·斯蕾特"
+                },
+                "m_2" : {
+                  "link" : "http:\/\/m.mtime.cn\/#!\/person\/953969\/"
+                },
+                "1" : {
+                  "link" : "http:\/\/people.mtime.com\/913635\/",
+                  "name" : "金妮弗·古德温"
+                },
+                "m_1" : {
+                  "link" : "http:\/\/m.mtime.cn\/#!\/person\/913635\/"
+                },
+                "m_4" : {
+                  "link" : "http:\/\/m.mtime.cn\/#!\/person\/1703866\/"
+                },
+                "2" : {
+                  "link" : "http:\/\/people.mtime.com\/953969\/",
+                  "name" : "杰森·贝特曼"
+                }
+              },
+              "showname" : "主演"
+            },
+            "playDate" : {
+              "data2" : "2016-3-4",
+              "showname" : "上映日期",
+              "data" : "2016年3月4日"
+            },
+            "type" : {
+              "showname" : "类型",
+              "data" : {
+                "1" : {
+                  "link" : "http:\/\/movie.mtime.com\/movie\/search\/section\/?type=Animation",
+                  "name" : "动画"
+                },
+                "2" : {
+                  "link" : "http:\/\/movie.mtime.com\/movie\/search\/section\/?type=Adventure",
+                  "name" : "冒险"
+                },
+                "3" : {
+                  "link" : "http:\/\/movie.mtime.com\/movie\/search\/section\/?type=Comedy",
+                  "name" : "喜剧"
+                }
+              }
+            },
+            "iconaddress" : "http:\/\/p2.qhimg.com\/t019841f1ef364f545f.jpg",
+            "m_iconlinkUrl" : "http:\/\/m.mtime.cn\/#!\/movie\/205222\/",
+            "story" : {
+              "showname" : "剧情",
+              "data" : {
+                "storyMoreLink" : "http:\/\/movie.mtime.com\/205222\/plots.html",
+                "storyBrief" : "影片故事发生在欣欣向荣的动物乌托邦，在这里各种动物和平共处。尼克·王尔德是只说话速度特别.."
+              }
+            },
+            "grade" : "8.7",
+            "subHead" : "今日14家影院上映",
+            "more" : {
+              "data" : [
+                {
+                  "name" : "选座购票",
+                  "link" : "http:\/\/theater.mtime.com\/China_Shandong_Province_Weifang\/movie\/205222\/"
+                },
+                {
+                  "name" : "剧照\/海报",
+                  "link" : "http:\/\/movie.mtime.com\/205222\/posters_and_images\/"
+                },
+                {
+                  "link" : "http:\/\/m.mtime.cn\/#!\/movie\/205222\/posters_and_images\/"
+                },
+                {
+                  "link" : "http:\/\/m.mtime.cn\/#!\/movie\/205222\/comment\/"
+                },
+                {
+                  "link" : "http:\/\/m.mtime.cn\/#!\/theater\/839\/movie\/205222\/"
+                },
+                {
+                  "name" : "热门影评",
+                  "link" : "http:\/\/movie.mtime.com\/205222\/comment.html"
+                }
+              ],
+              "showname" : "更多"
+            }
+          },
+          {
+            "tvTitle" : "飞鹰艾迪",
+            "gradeNum" : "\/10.0(时光网)",
+            "iconlinkUrl" : "http:\/\/movie.mtime.com\/79451\/",
+            "director" : {
+              "showname" : "导演",
+              "data" : {
+                "1" : {
+                  "link" : "http:\/\/people.mtime.com\/917360\/",
+                  "name" : "德克斯特·弗莱彻"
+                },
+                "m_1" : {
+                  "link" : "http:\/\/m.mtime.cn\/#!\/person\/917360\/"
+                }
+              }
+            },
+            "star" : {
+              "data" : {
+                "m_3" : {
+                  "link" : "http:\/\/m.mtime.cn\/#!\/person\/956853\/"
+                },
+                "3" : {
+                  "link" : "http:\/\/people.mtime.com\/956853\/",
+                  "name" : "艾芮丝·贝本"
+                },
+                "4" : {
+                  "link" : "http:\/\/people.mtime.com\/1610453\/",
+                  "name" : "麦德斯·斯加德·彼得森"
+                },
+                "m_2" : {
+                  "link" : "http:\/\/m.mtime.cn\/#!\/person\/911757\/"
+                },
+                "1" : {
+                  "link" : "http:\/\/people.mtime.com\/2013688\/",
+                  "name" : "塔伦·埃格顿"
+                },
+                "m_1" : {
+                  "link" : "http:\/\/m.mtime.cn\/#!\/person\/2013688\/"
+                },
+                "m_4" : {
+                  "link" : "http:\/\/m.mtime.cn\/#!\/person\/1610453\/"
+                },
+                "2" : {
+                  "link" : "http:\/\/people.mtime.com\/911757\/",
+                  "name" : "休·杰克曼"
+                }
+              },
+              "showname" : "主演"
+            },
+            "playDate" : {
+              "data2" : "2016-3-18",
+              "showname" : "上映日期",
+              "data" : "2016年3月18日"
+            },
+            "type" : {
+              "showname" : "类型",
+              "data" : {
+                "3" : {
+                  "link" : "http:\/\/movie.mtime.com\/movie\/search\/section\/?type=Drama",
+                  "name" : "剧情"
+                },
+                "1" : {
+                  "link" : "http:\/\/movie.mtime.com\/movie\/search\/section\/?type=Biography",
+                  "name" : "传记"
+                },
+                "4" : {
+                  "link" : "http:\/\/movie.mtime.com\/movie\/search\/section\/?type=History",
+                  "name" : "历史"
+                },
+                "2" : {
+                  "link" : "http:\/\/movie.mtime.com\/movie\/search\/section\/?type=Comedy",
+                  "name" : "喜剧"
+                },
+                "5" : {
+                  "link" : "http:\/\/movie.mtime.com\/movie\/search\/section\/?type=Sport",
+                  "name" : "运动"
+                }
+              }
+            },
+            "iconaddress" : "http:\/\/p7.qhimg.com\/t01d4c876a651a04515.jpg",
+            "m_iconlinkUrl" : "http:\/\/m.mtime.cn\/#!\/movie\/79451\/",
+            "story" : {
+              "showname" : "剧情",
+              "data" : {
+                "storyMoreLink" : "http:\/\/movie.mtime.com\/79451\/plots.html",
+                "storyBrief" : "《飞鹰埃迪》聚焦艾迪·爱德华兹在1988年冬奥会上的成名故事。“飞鹰艾迪”艾迪·爱德华兹这位.."
+              }
+            },
+            "grade" : "7.5",
+            "subHead" : "今日4家影院上映",
+            "more" : {
+              "data" : [
+                {
+                  "name" : "选座购票",
+                  "link" : "http:\/\/theater.mtime.com\/China_Shandong_Province_Weifang\/movie\/79451\/"
+                },
+                {
+                  "name" : "剧照\/海报",
+                  "link" : "http:\/\/movie.mtime.com\/79451\/posters_and_images\/"
+                },
+                {
+                  "link" : "http:\/\/m.mtime.cn\/#!\/movie\/79451\/posters_and_images\/"
+                },
+                {
+                  "link" : "http:\/\/m.mtime.cn\/#!\/movie\/79451\/comment\/"
+                },
+                {
+                  "link" : "http:\/\/m.mtime.cn\/#!\/theater\/839\/movie\/79451\/"
+                },
+                {
+                  "name" : "热门影评",
+                  "link" : "http:\/\/movie.mtime.com\/79451\/comment.html"
+                }
+              ],
+              "showname" : "更多"
+            }
+          },
+          {
+            "tvTitle" : "叶问3",
+            "gradeNum" : "\/10.0(时光网)",
+            "iconlinkUrl" : "http:\/\/movie.mtime.com\/164011\/",
+            "director" : {
+              "showname" : "导演",
+              "data" : {
+                "1" : {
+                  "link" : "http:\/\/people.mtime.com\/892990\/",
+                  "name" : "叶伟信"
+                },
+                "m_1" : {
+                  "link" : "http:\/\/m.mtime.cn\/#!\/person\/892990\/"
+                }
+              }
+            },
+            "star" : {
+              "data" : {
+                "m_3" : {
+                  "link" : "http:\/\/m.mtime.cn\/#!\/person\/926553\/"
+                },
+                "3" : {
+                  "link" : "http:\/\/people.mtime.com\/926553\/",
+                  "name" : "迈克·泰森"
+                },
+                "4" : {
+                  "link" : "http:\/\/people.mtime.com\/1258202\/",
+                  "name" : "张晋"
+                },
+                "m_2" : {
+                  "link" : "http:\/\/m.mtime.cn\/#!\/person\/1498407\/"
+                },
+                "1" : {
+                  "link" : "http:\/\/people.mtime.com\/893008\/",
+                  "name" : "甄子丹"
+                },
+                "m_1" : {
+                  "link" : "http:\/\/m.mtime.cn\/#!\/person\/893008\/"
+                },
+                "m_4" : {
+                  "link" : "http:\/\/m.mtime.cn\/#!\/person\/1258202\/"
+                },
+                "2" : {
+                  "link" : "http:\/\/people.mtime.com\/1498407\/",
+                  "name" : "熊黛林"
+                }
+              },
+              "showname" : "主演"
+            },
+            "playDate" : {
+              "data2" : "2016-3-4",
+              "showname" : "上映日期",
+              "data" : "2016年3月4日"
+            },
+            "type" : {
+              "showname" : "类型",
+              "data" : {
+                "3" : {
+                  "link" : "http:\/\/movie.mtime.com\/movie\/search\/section\/?type=Drama",
+                  "name" : "剧情"
+                },
+                "1" : {
+                  "link" : "http:\/\/movie.mtime.com\/movie\/search\/section\/?type=Action",
+                  "name" : "动作"
+                },
+                "4" : {
+                  "link" : "http:\/\/movie.mtime.com\/movie\/search\/section\/?type=History",
+                  "name" : "历史"
+                },
+                "2" : {
+                  "link" : "http:\/\/movie.mtime.com\/movie\/search\/section\/?type=Biography",
+                  "name" : "传记"
+                }
+              }
+            },
+            "iconaddress" : "http:\/\/p0.qhimg.com\/t01788207953fdc9191.jpg",
+            "m_iconlinkUrl" : "http:\/\/m.mtime.cn\/#!\/movie\/164011\/",
+            "story" : {
+              "showname" : "剧情",
+              "data" : {
+                "storyMoreLink" : "http:\/\/movie.mtime.com\/164011\/plots.html",
+                "storyBrief" : "《叶问3》是“叶问”系列电影的最终章，故事围绕叶问晚年展开，并着重刻画了一代武学宗师“为.."
+              }
+            },
+            "grade" : "6.4",
+            "subHead" : "今日6家影院上映",
+            "more" : {
+              "data" : [
+                {
+                  "name" : "选座购票",
+                  "link" : "http:\/\/theater.mtime.com\/China_Shandong_Province_Weifang\/movie\/164011\/"
+                },
+                {
+                  "name" : "剧照\/海报",
+                  "link" : "http:\/\/movie.mtime.com\/164011\/posters_and_images\/"
+                },
+                {
+                  "link" : "http:\/\/m.mtime.cn\/#!\/movie\/164011\/posters_and_images\/"
+                },
+                {
+                  "link" : "http:\/\/m.mtime.cn\/#!\/movie\/164011\/comment\/"
+                },
+                {
+                  "link" : "http:\/\/m.mtime.cn\/#!\/theater\/839\/movie\/164011\/"
+                },
+                {
+                  "name" : "热门影评",
+                  "link" : "http:\/\/movie.mtime.com\/164011\/comment.html"
+                }
+              ],
+              "showname" : "更多"
+            }
+          },
+          {
+            "tvTitle" : "神战：权力之眼",
+            "gradeNum" : "\/10.0(时光网)",
+            "iconlinkUrl" : "http:\/\/movie.mtime.com\/208254\/",
+            "director" : {
+              "showname" : "导演",
+              "data" : {
+                "1" : {
+                  "link" : "http:\/\/people.mtime.com\/900739\/",
+                  "name" : "亚历克斯·普罗亚斯"
+                },
+                "m_1" : {
+                  "link" : "http:\/\/m.mtime.cn\/#!\/person\/900739\/"
+                }
+              }
+            },
+            "star" : {
+              "data" : {
+                "m_3" : {
+                  "link" : "http:\/\/m.mtime.cn\/#!\/person\/1935765\/"
+                },
+                "3" : {
+                  "link" : "http:\/\/people.mtime.com\/1935765\/",
+                  "name" : "布兰顿·思怀兹"
+                },
+                "4" : {
+                  "link" : "http:\/\/people.mtime.com\/2008396\/",
+                  "name" : "科特妮·伊顿"
+                },
+                "m_2" : {
+                  "link" : "http:\/\/m.mtime.cn\/#!\/person\/928291\/"
+                },
+                "1" : {
+                  "link" : "http:\/\/people.mtime.com\/914875\/",
+                  "name" : "尼可拉·科斯特-瓦尔道"
+                },
+                "m_1" : {
+                  "link" : "http:\/\/m.mtime.cn\/#!\/person\/914875\/"
+                },
+                "m_4" : {
+                  "link" : "http:\/\/m.mtime.cn\/#!\/person\/2008396\/"
+                },
+                "2" : {
+                  "link" : "http:\/\/people.mtime.com\/928291\/",
+                  "name" : "杰拉德·巴特勒"
+                }
+              },
+              "showname" : "主演"
+            },
+            "playDate" : {
+              "data2" : "2016-3-11",
+              "showname" : "上映日期",
+              "data" : "2016年3月11日"
+            },
+            "type" : {
+              "showname" : "类型",
+              "data" : {
+                "1" : {
+                  "link" : "http:\/\/movie.mtime.com\/movie\/search\/section\/?type=Action",
+                  "name" : "动作"
+                },
+                "2" : {
+                  "link" : "http:\/\/movie.mtime.com\/movie\/search\/section\/?type=Adventure",
+                  "name" : "冒险"
+                },
+                "3" : {
+                  "link" : "http:\/\/movie.mtime.com\/movie\/search\/section\/?type=Fantasy",
+                  "name" : "奇幻"
+                }
+              }
+            },
+            "iconaddress" : "http:\/\/p7.qhimg.com\/t01ccb8ea0335f978be.jpg",
+            "m_iconlinkUrl" : "http:\/\/m.mtime.cn\/#!\/movie\/208254\/",
+            "story" : {
+              "showname" : "剧情",
+              "data" : {
+                "storyMoreLink" : "http:\/\/movie.mtime.com\/208254\/plots.html",
+                "storyBrief" : "故事发生在矗立着宫殿和金字塔的婉转萦回的尼罗河畔。 当时的古埃及充满了魔法、怪兽和神灵。.."
+              }
+            },
+            "grade" : "6.7",
+            "subHead" : "今日10家影院上映",
+            "more" : {
+              "data" : [
+                {
+                  "name" : "选座购票",
+                  "link" : "http:\/\/theater.mtime.com\/China_Shandong_Province_Weifang\/movie\/208254\/"
+                },
+                {
+                  "name" : "剧照\/海报",
+                  "link" : "http:\/\/movie.mtime.com\/208254\/posters_and_images\/"
+                },
+                {
+                  "link" : "http:\/\/m.mtime.cn\/#!\/movie\/208254\/posters_and_images\/"
+                },
+                {
+                  "link" : "http:\/\/m.mtime.cn\/#!\/movie\/208254\/comment\/"
+                },
+                {
+                  "link" : "http:\/\/m.mtime.cn\/#!\/theater\/839\/movie\/208254\/"
+                },
+                {
+                  "name" : "热门影评",
+                  "link" : "http:\/\/movie.mtime.com\/208254\/comment.html"
+                }
+              ],
+              "showname" : "更多"
+            }
+          }
+        ]
+      },
+      {
+        "link" : "http:\/\/theater.mtime.com\/China_Shandong_Province_Weifang\/movie\/",
+        "name" : "即将上映",
+        "data" : [
+          {
+            "star" : {
+              "data" : {
+                "m_3" : {
+                  "link" : "http:\/\/m.mtime.cn\/#!\/person\/1533592\/"
+                },
+                "3" : {
+                  "link" : "http:\/\/people.mtime.com\/1533592\/",
+                  "name" : "盖尔·加朵"
+                },
+                "4" : {
+                  "link" : "http:\/\/people.mtime.com\/914798\/",
+                  "name" : "杰西·艾森伯格"
+                },
+                "m_2" : {
+                  "link" : "http:\/\/m.mtime.cn\/#!\/person\/941888\/"
+                },
+                "1" : {
+                  "link" : "http:\/\/people.mtime.com\/900976\/",
+                  "name" : "本·阿弗莱克"
+                },
+                "m_1" : {
+                  "link" : "http:\/\/m.mtime.cn\/#!\/person\/900976\/"
+                },
+                "m_4" : {
+                  "link" : "http:\/\/m.mtime.cn\/#!\/person\/914798\/"
+                },
+                "2" : {
+                  "link" : "http:\/\/people.mtime.com\/941888\/",
+                  "name" : "亨利·卡维尔"
+                }
+              },
+              "showname" : "主演"
+            },
+            "tvTitle" : "蝙蝠侠大战超人：正义黎明",
+            "type" : {
+              "showname" : "类型",
+              "data" : {
+                "3" : {
+                  "link" : "http:\/\/movie.mtime.com\/movie\/search\/section\/?type=Fantasy",
+                  "name" : "奇幻"
+                },
+                "1" : {
+                  "link" : "http:\/\/movie.mtime.com\/movie\/search\/section\/?type=Action",
+                  "name" : "动作"
+                },
+                "4" : {
+                  "link" : "http:\/\/movie.mtime.com\/movie\/search\/section\/?type=Sci-Fi",
+                  "name" : "科幻"
+                },
+                "2" : {
+                  "link" : "http:\/\/movie.mtime.com\/movie\/search\/section\/?type=Adventure",
+                  "name" : "冒险"
+                }
+              }
+            },
+            "iconlinkUrl" : "http:\/\/movie.mtime.com\/203183\/",
+            "more" : {
+              "data" : [
+                {
+                  "name" : "剧照\/海报",
+                  "link" : "http:\/\/movie.mtime.com\/203183\/posters_and_images\/"
+                },
+                {
+                  "link" : "http:\/\/m.mtime.cn\/#!\/movie\/203183\/posters_and_images\/"
+                },
+                {
+                  "link" : "http:\/\/m.mtime.cn\/#!\/movie\/203183\/comment\/"
+                },
+                {
+                  "name" : "片花",
+                  "link" : "http:\/\/movie.mtime.com\/203183\/trailer.html"
+                },
+                {
+                  "name" : "热门影评",
+                  "link" : "http:\/\/movie.mtime.com\/203183\/comment.html"
+                }
+              ],
+              "showname" : "更多"
+            },
+            "iconaddress" : "http:\/\/p7.qhimg.com\/t0127c3cf17dd3f8f02.jpg",
+            "playDate" : {
+              "data2" : "2016-3-25",
+              "showname" : "上映日期",
+              "data" : "2016年3月25日"
+            },
+            "story" : {
+              "showname" : "剧情",
+              "data" : {
+                "storyMoreLink" : "http:\/\/movie.mtime.com\/203183\/plots.html",
+                "storyBrief" : "影片可能会以弗兰克·米勒的绘画小说《The Dark Knight Returns》为基础，来描绘超人与蝙蝠侠.."
+              }
+            },
+            "director" : {
+              "showname" : "导演",
+              "data" : {
+                "1" : {
+                  "link" : "http:\/\/people.mtime.com\/904479\/",
+                  "name" : "扎克·施奈德"
+                },
+                "m_1" : {
+                  "link" : "http:\/\/m.mtime.cn\/#!\/person\/904479\/"
+                }
+              }
+            },
+            "m_iconlinkUrl" : "http:\/\/m.mtime.cn\/#!\/movie\/203183\/"
+          },
+          {
+            "star" : {
+              "data" : {
+                "m_3" : {
+                  "link" : "http:\/\/m.mtime.cn\/#!\/person\/954171\/"
+                },
+                "3" : {
+                  "link" : "http:\/\/people.mtime.com\/954171\/",
+                  "name" : "梅艳芳"
+                },
+                "4" : {
+                  "link" : "http:\/\/people.mtime.com\/893050\/",
+                  "name" : "陈友"
+                },
+                "m_2" : {
+                  "link" : "http:\/\/m.mtime.cn\/#!\/person\/925074\/"
+                },
+                "1" : {
+                  "link" : "http:\/\/people.mtime.com\/954979\/",
+                  "name" : "张国荣"
+                },
+                "m_1" : {
+                  "link" : "http:\/\/m.mtime.cn\/#!\/person\/954979\/"
+                },
+                "m_4" : {
+                  "link" : "http:\/\/m.mtime.cn\/#!\/person\/893050\/"
+                },
+                "2" : {
+                  "link" : "http:\/\/people.mtime.com\/925074\/",
+                  "name" : "张曼玉"
+                }
+              },
+              "showname" : "主演"
+            },
+            "tvTitle" : "缘份",
+            "type" : {
+              "showname" : "类型",
+              "data" : {
+                "1" : {
+                  "link" : "http:\/\/movie.mtime.com\/movie\/search\/section\/?type=Comedy",
+                  "name" : "喜剧"
+                },
+                "2" : {
+                  "link" : "http:\/\/movie.mtime.com\/movie\/search\/section\/?type=Romance",
+                  "name" : "爱情"
+                },
+                "3" : {
+                  "link" : "http:\/\/movie.mtime.com\/movie\/search\/section\/?type=Drama",
+                  "name" : "剧情"
+                }
+              }
+            },
+            "iconlinkUrl" : "http:\/\/movie.mtime.com\/23983\/",
+            "more" : {
+              "data" : [
+                {
+                  "name" : "剧照\/海报",
+                  "link" : "http:\/\/movie.mtime.com\/23983\/posters_and_images\/"
+                },
+                {
+                  "link" : "http:\/\/m.mtime.cn\/#!\/movie\/23983\/posters_and_images\/"
+                },
+                {
+                  "link" : "http:\/\/m.mtime.cn\/#!\/movie\/23983\/comment\/"
+                },
+                {
+                  "name" : "片花",
+                  "link" : "http:\/\/movie.mtime.com\/23983\/trailer.html"
+                },
+                {
+                  "name" : "热门影评",
+                  "link" : "http:\/\/movie.mtime.com\/23983\/comment.html"
+                }
+              ],
+              "showname" : "更多"
+            },
+            "iconaddress" : "http:\/\/p1.qhimg.com\/t014b7b24dfffda3ec8.jpg",
+            "playDate" : {
+              "data2" : "2016-3-25",
+              "showname" : "上映日期",
+              "data" : "2016年3月25日"
+            },
+            "story" : {
+              "showname" : "剧情",
+              "data" : {
+                "storyMoreLink" : "http:\/\/movie.mtime.com\/23983\/plots.html",
+                "storyBrief" : "刚大学毕业的由张国荣饰演的阿PAUL，踏入现实世界当中，找到他的第一份工作，一日在地铁当中邂.."
+              }
+            },
+            "director" : {
+              "showname" : "导演",
+              "data" : {
+                "1" : {
+                  "link" : "http:\/\/people.mtime.com\/893425\/",
+                  "name" : "黄泰来"
+                },
+                "m_1" : {
+                  "link" : "http:\/\/m.mtime.cn\/#!\/person\/893425\/"
+                }
+              }
+            },
+            "m_iconlinkUrl" : "http:\/\/m.mtime.cn\/#!\/movie\/23983\/"
+          },
+          {
+            "star" : {
+              "data" : {
+                "m_3" : {
+                  "link" : "http:\/\/m.mtime.cn\/#!\/person\/2076127\/"
+                },
+                "3" : {
+                  "link" : "http:\/\/people.mtime.com\/2076127\/",
+                  "name" : "陈沛妍"
+                },
+                "4" : {
+                  "link" : "http:\/\/people.mtime.com\/943991\/",
+                  "name" : "李勤勤"
+                },
+                "m_2" : {
+                  "link" : "http:\/\/m.mtime.cn\/#!\/person\/924681\/"
+                },
+                "1" : {
+                  "link" : "http:\/\/people.mtime.com\/892825\/",
+                  "name" : "洪金宝"
+                },
+                "m_1" : {
+                  "link" : "http:\/\/m.mtime.cn\/#!\/person\/892825\/"
+                },
+                "m_4" : {
+                  "link" : "http:\/\/m.mtime.cn\/#!\/person\/943991\/"
+                },
+                "2" : {
+                  "link" : "http:\/\/people.mtime.com\/924681\/",
+                  "name" : "刘德华"
+                }
+              },
+              "showname" : "主演"
+            },
+            "tvTitle" : "我的特工爷爷",
+            "type" : {
+              "showname" : "类型",
+              "data" : {
+                "3" : {
+                  "link" : "http:\/\/movie.mtime.com\/movie\/search\/section\/?type=Mystery",
+                  "name" : "悬疑"
+                },
+                "1" : {
+                  "link" : "http:\/\/movie.mtime.com\/movie\/search\/section\/?type=Action",
+                  "name" : "动作"
+                },
+                "4" : {
+                  "link" : "http:\/\/movie.mtime.com\/movie\/search\/section\/?type=Crime",
+                  "name" : "犯罪"
+                },
+                "2" : {
+                  "link" : "http:\/\/movie.mtime.com\/movie\/search\/section\/?type=Drama",
+                  "name" : "剧情"
+                }
+              }
+            },
+            "iconlinkUrl" : "http:\/\/movie.mtime.com\/216573\/",
+            "more" : {
+              "data" : [
+                {
+                  "name" : "剧照\/海报",
+                  "link" : "http:\/\/movie.mtime.com\/216573\/posters_and_images\/"
+                },
+                {
+                  "link" : "http:\/\/m.mtime.cn\/#!\/movie\/216573\/posters_and_images\/"
+                },
+                {
+                  "link" : "http:\/\/m.mtime.cn\/#!\/movie\/216573\/comment\/"
+                },
+                {
+                  "name" : "片花",
+                  "link" : "http:\/\/movie.mtime.com\/216573\/trailer.html"
+                },
+                {
+                  "name" : "热门影评",
+                  "link" : "http:\/\/movie.mtime.com\/216573\/comment.html"
+                }
+              ],
+              "showname" : "更多"
+            },
+            "iconaddress" : "http:\/\/p8.qhimg.com\/t012534305bd8556d03.jpg",
+            "playDate" : {
+              "data2" : "2016-4-1",
+              "showname" : "上映日期",
+              "data" : "2016年4月1日"
+            },
+            "story" : {
+              "showname" : "剧情",
+              "data" : {
+                "storyMoreLink" : "http:\/\/movie.mtime.com\/216573\/plots.html",
+                "storyBrief" : "影片讲述了影片退休军官老丁因“健忘症”弄丢孙女，内疚回到老家。邻居小女孩春花成为他的慰藉.."
+              }
+            },
+            "director" : {
+              "showname" : "导演",
+              "data" : {
+                "1" : {
+                  "link" : "http:\/\/people.mtime.com\/892825\/",
+                  "name" : "洪金宝"
+                },
+                "m_1" : {
+                  "link" : "http:\/\/m.mtime.cn\/#!\/person\/892825\/"
+                }
+              }
+            },
+            "m_iconlinkUrl" : "http:\/\/m.mtime.cn\/#!\/movie\/216573\/"
+          },
+          {
+            "star" : {
+              "data" : {
+                "m_3" : {
+                  "link" : "http:\/\/m.mtime.cn\/#!\/person\/1249231\/"
+                },
+                "3" : {
+                  "link" : "http:\/\/people.mtime.com\/1249231\/",
+                  "name" : "秦昊"
+                },
+                "4" : {
+                  "link" : "http:\/\/people.mtime.com\/1249877\/",
+                  "name" : "喻恩泰"
+                },
+                "m_2" : {
+                  "link" : "http:\/\/m.mtime.cn\/#!\/person\/1413704\/"
+                },
+                "1" : {
+                  "link" : "http:\/\/people.mtime.com\/923642\/",
+                  "name" : "陈坤"
+                },
+                "m_1" : {
+                  "link" : "http:\/\/m.mtime.cn\/#!\/person\/923642\/"
+                },
+                "m_4" : {
+                  "link" : "http:\/\/m.mtime.cn\/#!\/person\/1249877\/"
+                },
+                "2" : {
+                  "link" : "http:\/\/people.mtime.com\/1413704\/",
+                  "name" : "白百何"
+                }
+              },
+              "showname" : "主演"
+            },
+            "tvTitle" : "火锅英雄",
+            "type" : {
+              "showname" : "类型",
+              "data" : {
+                "3" : {
+                  "link" : "http:\/\/movie.mtime.com\/movie\/search\/section\/?type=Drama",
+                  "name" : "剧情"
+                },
+                "1" : {
+                  "link" : "http:\/\/movie.mtime.com\/movie\/search\/section\/?type=Romance",
+                  "name" : "爱情"
+                },
+                "4" : {
+                  "link" : "http:\/\/movie.mtime.com\/movie\/search\/section\/?type=Comedy",
+                  "name" : "喜剧"
+                },
+                "2" : {
+                  "link" : "http:\/\/movie.mtime.com\/movie\/search\/section\/?type=Action",
+                  "name" : "动作"
+                }
+              }
+            },
+            "iconlinkUrl" : "http:\/\/movie.mtime.com\/229813\/",
+            "more" : {
+              "data" : [
+                {
+                  "name" : "剧照\/海报",
+                  "link" : "http:\/\/movie.mtime.com\/229813\/posters_and_images\/"
+                },
+                {
+                  "link" : "http:\/\/m.mtime.cn\/#!\/movie\/229813\/posters_and_images\/"
+                },
+                {
+                  "link" : "http:\/\/m.mtime.cn\/#!\/movie\/229813\/comment\/"
+                },
+                {
+                  "name" : "片花",
+                  "link" : "http:\/\/movie.mtime.com\/229813\/trailer.html"
+                },
+                {
+                  "name" : "热门影评",
+                  "link" : "http:\/\/movie.mtime.com\/229813\/comment.html"
+                }
+              ],
+              "showname" : "更多"
+            },
+            "iconaddress" : "http:\/\/p2.qhimg.com\/t01844a377a76606372.jpg",
+            "playDate" : {
+              "data2" : "2016-4-1",
+              "showname" : "上映日期",
+              "data" : "2016年4月1日"
+            },
+            "story" : {
+              "showname" : "剧情",
+              "data" : {
+                "storyMoreLink" : "http:\/\/movie.mtime.com\/229813\/plots.html",
+                "storyBrief" : "在布满防空洞的重庆，三个从初中就“厮混”在一起的好兄弟合伙开着一家火锅店，名为“老同学洞.."
+              }
+            },
+            "director" : {
+              "showname" : "导演",
+              "data" : {
+                "1" : {
+                  "link" : "http:\/\/people.mtime.com\/1654943\/",
+                  "name" : "杨庆"
+                },
+                "m_1" : {
+                  "link" : "http:\/\/m.mtime.cn\/#!\/person\/1654943\/"
+                }
+              }
+            },
+            "m_iconlinkUrl" : "http:\/\/m.mtime.cn\/#!\/movie\/229813\/"
+          },
+          {
+            "star" : {
+              "data" : {
+                "m_3" : {
+                  "link" : "http:\/\/m.mtime.cn\/#!\/person\/1993044\/"
+                },
+                "3" : {
+                  "link" : "http:\/\/people.mtime.com\/1993044\/",
+                  "name" : "杜天皓"
+                },
+                "4" : {
+                  "link" : "http:\/\/people.mtime.com\/2132989\/",
+                  "name" : "刘芮麟"
+                },
+                "m_2" : {
+                  "link" : "http:\/\/m.mtime.cn\/#!\/person\/1248799\/"
+                },
+                "1" : {
+                  "link" : "http:\/\/people.mtime.com\/1824419\/",
+                  "name" : "陈晓"
+                },
+                "m_1" : {
+                  "link" : "http:\/\/m.mtime.cn\/#!\/person\/1824419\/"
+                },
+                "m_4" : {
+                  "link" : "http:\/\/m.mtime.cn\/#!\/person\/2132989\/"
+                },
+                "2" : {
+                  "link" : "http:\/\/people.mtime.com\/1248799\/",
+                  "name" : "秦岚"
+                }
+              },
+              "showname" : "主演"
+            },
+            "tvTitle" : "睡在我上铺的兄弟",
+            "type" : {
+              "showname" : "类型",
+              "data" : {
+                "1" : {
+                  "link" : "http:\/\/movie.mtime.com\/movie\/search\/section\/?type=Drama",
+                  "name" : "剧情"
+                }
+              }
+            },
+            "iconlinkUrl" : "http:\/\/movie.mtime.com\/225158\/",
+            "more" : {
+              "data" : [
+                {
+                  "name" : "剧照\/海报",
+                  "link" : "http:\/\/movie.mtime.com\/225158\/posters_and_images\/"
+                },
+                {
+                  "link" : "http:\/\/m.mtime.cn\/#!\/movie\/225158\/posters_and_images\/"
+                },
+                {
+                  "link" : "http:\/\/m.mtime.cn\/#!\/movie\/225158\/comment\/"
+                },
+                {
+                  "name" : "片花",
+                  "link" : "http:\/\/movie.mtime.com\/225158\/trailer.html"
+                },
+                {
+                  "name" : "热门影评",
+                  "link" : "http:\/\/movie.mtime.com\/225158\/comment.html"
+                }
+              ],
+              "showname" : "更多"
+            },
+            "iconaddress" : "http:\/\/p5.qhimg.com\/t01c4ed8a62778ed777.jpg",
+            "playDate" : {
+              "data2" : "2016-4-1",
+              "showname" : "上映日期",
+              "data" : "2016年4月1日"
+            },
+            "story" : {
+              "showname" : "剧情",
+              "data" : {
+                "storyMoreLink" : "http:\/\/movie.mtime.com\/225158\/plots.html",
+                "storyBrief" : "《睡在我上铺的兄弟》是由校园音乐PK赛、超级网剧和大电影共同构成的生态IP。在超级网剧《睡在.."
+              }
+            },
+            "director" : {
+              "showname" : "导演",
+              "data" : {
+                "1" : {
+                  "link" : "http:\/\/people.mtime.com\/1299407\/",
+                  "name" : "张琦"
+                },
+                "m_1" : {
+                  "link" : "http:\/\/m.mtime.cn\/#!\/person\/1299407\/"
+                }
+              }
+            },
+            "m_iconlinkUrl" : "http:\/\/m.mtime.cn\/#!\/movie\/225158\/"
+          }
+        ]
+      }
+    ],
+    "title" : "潍坊影讯_最近上映电影",
+    "morelink" : "http:\/\/theater.mtime.com\/China_Shandong_Province_Weifang\/",
+    "url" : "http:\/\/theater.mtime.com\/China_Shandong_Province_Weifang\/",
+    "m_url" : "http:\/\/m.mtime.cn\/?cityId=839",
+    "date" : "2016-03-20"
+  },
+  "error_code" : 0,
+  "reason" : "查询成功"
+}
