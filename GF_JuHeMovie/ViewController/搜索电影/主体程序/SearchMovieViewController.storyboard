@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="9531" systemVersion="15C50" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES">
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="9529"/>
+    </dependencies>
+    <scenes>
+        <!--Search Movie View Controller-->
+        <scene sceneID="aY2-my-d38">
+            <objects>
+                <viewController storyboardIdentifier="SearchMovieViewController" id="7z9-aP-aob" customClass="SearchMovieViewController" sceneMemberID="viewController">
+                    <layoutGuides>
+                        <viewControllerLayoutGuide type="top" id="aEg-Gt-DeT"/>
+                        <viewControllerLayoutGuide type="bottom" id="u3x-KC-rLU"/>
+                    </layoutGuides>
+                    <view key="view" contentMode="scaleToFill" id="cWW-AP-9KL">
+                        <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <searchBar contentMode="redraw" fixedFrame="YES" placeholder="请输入电影名,如:宝贝计划" translatesAutoresizingMaskIntoConstraints="NO" id="NRt-xX-uls">
+                                <rect key="frame" x="0.0" y="64" width="375" height="44"/>
+                                <textInputTraits key="textInputTraits"/>
+                                <connections>
+                                    <outlet property="delegate" destination="7z9-aP-aob" id="09l-be-SVg"/>
+                                </connections>
+                            </searchBar>
+                        </subviews>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
+                    </view>
+                    <navigationItem key="navigationItem" id="hdm-2a-bdr"/>
+                    <simulatedScreenMetrics key="simulatedDestinationMetrics" type="retina47"/>
+                    <connections>
+                        <outlet property="searchMovieBar" destination="NRt-xX-uls" id="Hy6-YR-p1Q"/>
+                    </connections>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="dys-Ky-nCK" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="35.5" y="-528.5"/>
+        </scene>
+    </scenes>
+</document>

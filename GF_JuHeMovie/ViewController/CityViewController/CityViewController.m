@@ -14,6 +14,8 @@
 #import "CityHotMovieModel.h"
 #import "CityNextMovieModel.h"
 
+#import "SearchMovieViewController.h"
+
 #import "GF_CityListViewController.h"
 #import "ZKSegment.h"
 #import "BasePath.h"
@@ -32,13 +34,9 @@
 }
 
 @property (strong, nonatomic) IBOutlet UIBarButtonItem *cityListBarBtnItem;
-
 @property (strong, nonatomic) IBOutlet UIBarButtonItem *searchMoiveBarBtnItem;
-
 @property (strong, nonatomic) IBOutlet UISearchBar *searchBar;
-
 @property (strong, nonatomic) IBOutlet UILabel *cityNameLabel;
-
 @property (strong, nonatomic) IBOutlet UILabel *cityDateLabel;
 
 
@@ -55,12 +53,16 @@
     if (kLocationCityName) {
         
         _cityListBarBtnItem.title = kLocationCityName;
+        _cityName = kLocationCityName;
+    }else{
+    
+        _cityName = @"北京";
     }
     
-    [self loadGetDatas];
+//    [self loadGetDatas];
     
     //读取本地缓存数据
-    [self readJsonData];
+//    [self readJsonData];
     
     //判断当前的网络
     [self isConnectionAvailable];
@@ -69,21 +71,40 @@
 //UISearchBarDelegate
 - (BOOL)searchBarShouldEndEditing:(UISearchBar *)searchBar{
 
-    if (searchBar.text.length == 0) {
-        
-//        MBProgressHUD *hud = [MBProgressHUD showHUDAddedTo:self.view animated:YES];//<span style="font-family: Arial, Helvetica, sans-serif;">MBProgressHUD为第三方库，不需要可以省略或使用AlertView</span>
-//        hud.removeFromSuperViewOnHide =YES;
-//        hud.mode = MBProgressHUDModeText;
-//        hud.labelText = NSLocalizedString(@"请重新输入", nil);
-//        hud.minSize = CGSizeMake(132.f, 108.0f);
-//        [hud hide:YES afterDelay:3];
-        
-    }else{
-    
-        [self getMovieDatas:searchBar.text];
-    }
+//    if (searchBar.text.length == 0) {
+//        
+////        MBProgressHUD *hud = [MBProgressHUD showHUDAddedTo:self.view animated:YES];//<span style="font-family: Arial, Helvetica, sans-serif;">MBProgressHUD为第三方库，不需要可以省略或使用AlertView</span>
+////        hud.removeFromSuperViewOnHide =YES;
+////        hud.mode = MBProgressHUDModeText;
+////        hud.labelText = NSLocalizedString(@"请重新输入", nil);
+////        hud.minSize = CGSizeMake(132.f, 108.0f);
+////        [hud hide:YES afterDelay:3];
+//        
+//    }else{
+//    
+//        [self getMovieDatas:searchBar.text];
+//    }
     
     return YES;
+}
+
+- (void)searchBarSearchButtonClicked:(UISearchBar *)searchBar{
+
+    [searchBar resignFirstResponder];
+    
+    if (searchBar.text.length == 0) {
+        
+        //        MBProgressHUD *hud = [MBProgressHUD showHUDAddedTo:self.view animated:YES];//<span style="font-family: Arial, Helvetica, sans-serif;">MBProgressHUD为第三方库，不需要可以省略或使用AlertView</span>
+        //        hud.removeFromSuperViewOnHide =YES;
+        //        hud.mode = MBProgressHUDModeText;
+        //        hud.labelText = NSLocalizedString(@"请重新输入", nil);
+        //        hud.minSize = CGSizeMake(132.f, 108.0f);
+        //        [hud hide:YES afterDelay:3];
+        
+    }else{
+        
+        [self getMovieDatas:searchBar.text];
+    }
 }
 
 //城市列表
@@ -104,11 +125,11 @@
 //搜索影视
 - (IBAction)searchMoiveBarBtnItemAct:(UIBarButtonItem *)sender {
 
-    UIStoryboard *storyboard = [UIStoryboard storyboardWithName:@"Main" bundle:nil];
+    UIStoryboard *storyboard = [UIStoryboard storyboardWithName:@"SearchMovieViewController" bundle:nil];
     
-    CityViewController *cityVC = [storyboard instantiateViewControllerWithIdentifier:@"ViewController"];
+    SearchMovieViewController *searchMovie = [storyboard instantiateViewControllerWithIdentifier:@"SearchMovieViewController"];
     
-    [self.navigationController pushViewController:cityVC animated:YES];
+    [self.navigationController pushViewController:searchMovie animated:YES];
 }
 
 //创建segment
@@ -260,31 +281,37 @@
     
     NSDictionary *parameters = @{@"key":kMovieAppKey,@"city":cityName};
     
-    [NetWorking getHomeTimeLineWithURLString:kMovieCityUrl withParameters:parameters success:^(id result) {
+    [MHNetworkManager getRequstWithURL:kMovieCityUrl params:parameters successBlock:^(id returnData, int code, NSString *msg) {
         
-        NSNumber *error_code = [result objectForKey:@"error_code"];
+        NSNumber *error_code = [returnData objectForKey:@"error_code"];
         
-        NSLog(@"-------- resullt is %@",result);
+        NSLog(@"-------- resullt is %@",returnData);
         
         if ([error_code isEqual: @0]) {
             
             //解析数据
-            [self resolveCityMovieData:(NSDictionary *)result];
+            [self resolveCityMovieData:(NSDictionary *)returnData];
             
-            [self jsonWriteData:(NSDictionary *)result];
+            [self jsonWriteData:(NSDictionary *)returnData];
             
             _searchBar.text = nil;
-        }else{
-        
-            MBProgressHUD *hud = [MBProgressHUD showHUDAddedTo:self.view animated:YES];//<span style="font-family: Arial, Helvetica, sans-serif;">MBProgressHUD为第三方库，不需要可以省略或使用AlertView</span>
-            hud.removeFromSuperViewOnHide =YES;
-            hud.mode = MBProgressHUDModeText;
-            hud.labelText = NSLocalizedString(@"请重新输入", nil);
-            hud.minSize = CGSizeMake(132.f, 108.0f);
-            [hud hide:YES afterDelay:3];
-
         }
-    }];
+//        else{
+//            
+//            MBProgressHUD *hud = [MBProgressHUD showHUDAddedTo:self.view animated:YES];//<span style="font-family: Arial, Helvetica, sans-serif;">MBProgressHUD为第三方库，不需要可以省略或使用AlertView</span>
+//            hud.removeFromSuperViewOnHide =YES;
+//            hud.mode = MBProgressHUDModeText;
+//            hud.labelText = NSLocalizedString(@"请重新输入", nil);
+//            hud.minSize = CGSizeMake(132.f, 108.0f);
+//            [hud hide:YES afterDelay:3];
+//            
+//        }
+
+    } failureBlock:^(NSError *error) {
+        
+        NSLog(@"城市 影视的错误 is:%@",error);
+        
+    } showHUD:YES];
 }
 
 //解析非网络数据

@@ -142,8 +142,6 @@
             NSLog(@"pm.name :%@",pm.name);
             
         }
-        
-        
     }];
     
 }

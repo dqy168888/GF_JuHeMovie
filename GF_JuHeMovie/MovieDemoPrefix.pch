@@ -20,9 +20,11 @@
 #define kScreenW [UIScreen mainScreen].bounds.size.width
 
 //
-#import "NetWorking.h"
 #import "UIImageView+WebCache.h"
 #import "UIImage+GIF.h"
+
+#import "AFNetworking.h"
+#import "MHNetwrok.h"
 
 //
 #import "MBProgressHUD.h"
@@ -30,6 +32,7 @@
 //电影的AppKey
 #define kMovieAppKey @"a7f776f9f6aa7d2f7b82d2e4d43a5b67"
 #define kMovieCityUrl @"http://op.juhe.cn/onebox/movie/pmovie"
+#define kSearchMovieUrl @"http://op.juhe.cn/onebox/movie/video"
 
 //当前定位的城市
 #import "CCLocationManager.h"

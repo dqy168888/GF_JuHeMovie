@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "5F9DA9448E68F15348A9EFC9C001505E761D880E",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "5F9DA9448E68F15348A9EFC9C001505E761D880E" : 0,
+    "B453ADF15CC8CD416E854E6D65B7A2AE18B8D864" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "2FB65F47-7ABE-40BD-B28B-1117312911E3",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "5F9DA9448E68F15348A9EFC9C001505E761D880E" : "GF_JuHeMovie\/",
+    "B453ADF15CC8CD416E854E6D65B7A2AE18B8D864" : "GF_JuHeMovie\/GF_JuHeMovie\/hello\/CNLabel\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "GF_JuHeMovie",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "GF_JuHeMovie.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/gdhGaoFei\/GF_JuHeMovie.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "5F9DA9448E68F15348A9EFC9C001505E761D880E"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/gdhGaoFei\/CNLabel.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "B453ADF15CC8CD416E854E6D65B7A2AE18B8D864"
+    }
+  ]
+}
