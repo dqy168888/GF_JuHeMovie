@@ -67,7 +67,6 @@
 		EC8B30001CA4DDFC002FF0C5 /* BasePushWebViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = EC8B2FB41CA4DDFC002FF0C5 /* BasePushWebViewController.m */; };
 		EC8B30011CA4DDFC002FF0C5 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = EC8B2FB61CA4DDFC002FF0C5 /* ViewController.m */; };
 		EC8B30031CA4DE8F002FF0C5 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EC8B30021CA4DE8F002FF0C5 /* Main.storyboard */; };
-		EC8B30061CA52980002FF0C5 /* CNLabel.m in Sources */ = {isa = PBXBuildFile; fileRef = EC8B30051CA52980002FF0C5 /* CNLabel.m */; };
 		EC8B30491CA68E98002FF0C5 /* AFDownloadRequestOperation.m in Sources */ = {isa = PBXBuildFile; fileRef = EC8B30111CA68E98002FF0C5 /* AFDownloadRequestOperation.m */; };
 		EC8B304A1CA68E98002FF0C5 /* AFHTTPRequestOperation.m in Sources */ = {isa = PBXBuildFile; fileRef = EC8B30131CA68E98002FF0C5 /* AFHTTPRequestOperation.m */; };
 		EC8B304B1CA68E98002FF0C5 /* AFHTTPRequestOperationManager.m in Sources */ = {isa = PBXBuildFile; fileRef = EC8B30151CA68E98002FF0C5 /* AFHTTPRequestOperationManager.m */; };
@@ -105,6 +104,7 @@
 		ECED8CB91CA6D86500F83D57 /* SearchMovieVideo_Rec_CollectionViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = ECED8CB71CA6D86500F83D57 /* SearchMovieVideo_Rec_CollectionViewCell.xib */; };
 		ECED8CBD1CA6D89100F83D57 /* SearchMovieAct_S_CollectionViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = ECED8CBB1CA6D89100F83D57 /* SearchMovieAct_S_CollectionViewCell.m */; };
 		ECED8CBE1CA6D89100F83D57 /* SearchMovieAct_S_CollectionViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = ECED8CBC1CA6D89100F83D57 /* SearchMovieAct_S_CollectionViewCell.xib */; };
+		ECED8CC71CA6E73300F83D57 /* CNLabel.m in Sources */ = {isa = PBXBuildFile; fileRef = ECED8CC61CA6E73300F83D57 /* CNLabel.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -240,8 +240,6 @@
 		EC8B2FB51CA4DDFC002FF0C5 /* ViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = ViewController.h; path = ../ViewController.h; sourceTree = "<group>"; };
 		EC8B2FB61CA4DDFC002FF0C5 /* ViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = ViewController.m; path = ../ViewController.m; sourceTree = "<group>"; };
 		EC8B30021CA4DE8F002FF0C5 /* Main.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = Main.storyboard; path = ../Main.storyboard; sourceTree = "<group>"; };
-		EC8B30041CA52980002FF0C5 /* CNLabel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CNLabel.h; sourceTree = "<group>"; };
-		EC8B30051CA52980002FF0C5 /* CNLabel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CNLabel.m; sourceTree = "<group>"; };
 		EC8B30101CA68E98002FF0C5 /* AFDownloadRequestOperation.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AFDownloadRequestOperation.h; sourceTree = "<group>"; };
 		EC8B30111CA68E98002FF0C5 /* AFDownloadRequestOperation.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AFDownloadRequestOperation.m; sourceTree = "<group>"; };
 		EC8B30121CA68E98002FF0C5 /* AFHTTPRequestOperation.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AFHTTPRequestOperation.h; sourceTree = "<group>"; };
@@ -318,6 +316,8 @@
 		ECED8CBA1CA6D89100F83D57 /* SearchMovieAct_S_CollectionViewCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SearchMovieAct_S_CollectionViewCell.h; sourceTree = "<group>"; };
 		ECED8CBB1CA6D89100F83D57 /* SearchMovieAct_S_CollectionViewCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SearchMovieAct_S_CollectionViewCell.m; sourceTree = "<group>"; };
 		ECED8CBC1CA6D89100F83D57 /* SearchMovieAct_S_CollectionViewCell.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = SearchMovieAct_S_CollectionViewCell.xib; sourceTree = "<group>"; };
+		ECED8CC51CA6E73300F83D57 /* CNLabel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CNLabel.h; sourceTree = "<group>"; };
+		ECED8CC61CA6E73300F83D57 /* CNLabel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CNLabel.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -454,8 +454,8 @@
 		EC8B2F0B1CA4DDFC002FF0C5 /* CNLabel */ = {
 			isa = PBXGroup;
 			children = (
-				EC8B30041CA52980002FF0C5 /* CNLabel.h */,
-				EC8B30051CA52980002FF0C5 /* CNLabel.m */,
+				ECED8CC51CA6E73300F83D57 /* CNLabel.h */,
+				ECED8CC61CA6E73300F83D57 /* CNLabel.m */,
 			);
 			path = CNLabel;
 			sourceTree = "<group>";
@@ -1140,6 +1140,7 @@
 				EC8B2FCB1CA4DDFC002FF0C5 /* UIImageView+WebCache.m in Sources */,
 				EC8B2FEF1CA4DDFC002FF0C5 /* CityMovieModel.m in Sources */,
 				EC8B2FC11CA4DDFC002FF0C5 /* SDWebImageDecoder.m in Sources */,
+				ECED8CC71CA6E73300F83D57 /* CNLabel.m in Sources */,
 				EC8B304B1CA68E98002FF0C5 /* AFHTTPRequestOperationManager.m in Sources */,
 				EC8B2FF51CA4DDFC002FF0C5 /* CityViewController.m in Sources */,
 				EC8B2FBB1CA4DDFC002FF0C5 /* CLLocation+YCLocation.m in Sources */,
@@ -1167,7 +1168,6 @@
 				EC8B305C1CA68E98002FF0C5 /* MBProgressHUD+Add.m in Sources */,
 				EC8B2FFB1CA4DDFC002FF0C5 /* CityMovieCollectionView.m in Sources */,
 				EC8B2FD81CA4DDFC002FF0C5 /* GF_LocateHeaderView.m in Sources */,
-				EC8B30061CA52980002FF0C5 /* CNLabel.m in Sources */,
 				EC8B2FCF1CA4DDFC002FF0C5 /* UIUtils.m in Sources */,
 				EC8B2FF61CA4DDFC002FF0C5 /* NextMovieTableView.m in Sources */,
 				EC8B2FD31CA4DDFC002FF0C5 /* NSMutableAttributedString+CTFrameRef.m in Sources */,
